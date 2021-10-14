@@ -1,0 +1,10 @@
+com/example/astut/databinding/FragmentSecondBinding.java
+ com.example.astut.databinding.FragmentSecondBinding
+com/example/astut/BuildConfig.java
+ com.example.astut.BuildConfig
+com/example/astut/databinding/ContentMainBinding.java
+ com.example.astut.databinding.ContentMainBinding
+com/example/astut/databinding/ActivityMainBinding.java
+ com.example.astut.databinding.ActivityMainBinding
+com/example/astut/databinding/FragmentFirstBinding.java
+ com.example.astut.databinding.FragmentFirstBinding
